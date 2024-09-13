@@ -1,0 +1,15 @@
+{
+  "sample_rate": 128,
+  "mats_folder_path": "C:/scy-project/original_data/sch (1)",
+  "interval_length_ms": 200,
+  "number_of_categories": 3,
+  "frequency_bands" : {
+    "Alpha": [8, 12],
+    "Beta": [13, 40],
+    "Gamma": [40,80]
+  },
+  "output_folder": "C:/scy-project/processed_data/scy",
+  "direct_to_step": "False" ,
+  "levels_to_save": [0,1,2,3]
+
+}
